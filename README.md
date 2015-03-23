@@ -3,7 +3,7 @@
 
 ## github及gitbook学习向导  
  
-[Guide: GitHub + gitbook](https://github.com/OpenMindClub/pythoncamp0/wiki/%5BGithub-Gitbook%5D)
+[Guide: GitHub + gitbook](https://github.com/Vesperal-Hunter/pythoncamp0/wiki/%5BGithub-Gitbook%5D)
 
 ## readme是什么
 
