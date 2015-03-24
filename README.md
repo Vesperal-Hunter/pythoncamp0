@@ -7,7 +7,7 @@
 
 ## readme是什么
 
-readme告诉别人如何使用你的软件，是项目的门面，一般包括如何安装，如何使用等等(WOGAILE ZHELI)
+readme告诉别人如何使用你的软件，是项目的门面，一般包括如何安装，如何使用等(WOGAILE ZHELI)
 
 ## fork这个项目
 
